@@ -22,3 +22,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhawnaa05&theme=radical)
 ![Bhawna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhawnaa05&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhawnaa05&layout=compact&langs_count=10&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhawnaa05&theme=radical)  
+![Pull Requests](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhawnaa05&theme=radical&utcOffset=8)  
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhawnaa05&theme=radical)  
