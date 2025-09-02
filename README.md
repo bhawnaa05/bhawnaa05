@@ -18,14 +18,18 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhawnaa05&theme=radical)  
-![Bhawna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhawnaa05&show_icons=true&count_private=true&hide_rank=false&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhawnaa05&layout=compact&langs_count=10&theme=radical)  
+## 📊 GitHub Overview  
 
-## 🔥 GitHub Activity:
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhawnaa05&theme=radical)  
-![Repos & PRs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhawnaa05&theme=radical)  
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/commits-per-hour?username=bhawnaa05&theme=radical)  
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhawnaa05&theme=radical&utcOffset=8)  
+| 🔥 Contributions & Streak | 📈 Detailed Stats | 💻 Languages |
+|---------------------------|-------------------|--------------|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhawnaa05&theme=radical) | ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhawnaa05&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhawnaa05&layout=compact&langs_count=10&theme=radical) |
+
+---
+
+## 🔥 GitHub Activity  
+
+| Profile Summary | Productive Time | Commits by Language |
+|-----------------|-----------------|----------------------|
+| ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhawnaa05&theme=radical) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhawnaa05&theme=radical&utcOffset=8) | ![Commits by Lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhawnaa05&theme=radical) |
+
 
