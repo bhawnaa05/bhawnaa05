@@ -19,9 +19,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhawnaa05&theme=radical)
-![Bhawna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhawnaa05&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhawnaa05&layout=compact&langs_count=10&theme=radical)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhawnaa05&theme=radical)  
-![Pull Requests](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhawnaa05&theme=radical&utcOffset=8)  
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhawnaa05&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhawnaa05&theme=radical)  
+![Bhawna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhawnaa05&show_icons=true&count_private=true&hide_rank=false&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhawnaa05&layout=compact&langs_count=10&theme=radical)  
+
+## 🔥 GitHub Activity:
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhawnaa05&theme=radical)  
+![Repos & PRs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhawnaa05&theme=radical)  
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/commits-per-hour?username=bhawnaa05&theme=radical)  
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhawnaa05&theme=radical&utcOffset=8)  
+
