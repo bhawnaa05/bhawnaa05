@@ -28,8 +28,8 @@
 
 ## 🔥 GitHub Activity  
 
-| Profile Summary | Productive Time | Commits by Language |
-|-----------------|-----------------|----------------------|
-| ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhawnaa05&theme=radical) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhawnaa05&theme=radical&utcOffset=8) | ![Commits by Lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhawnaa05&theme=radical) |
+| Profile Summary | Commits by Language |
+|-----------------|---------------------|
+| ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhawnaa05&theme=radical) | ![Commits by Lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhawnaa05&theme=radical) |
 
 
