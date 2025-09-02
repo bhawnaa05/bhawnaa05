@@ -4,12 +4,11 @@
 💻 Full-Stack Developer| MERN | DSA
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhawna-bhandari-831854271/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhawnaa.05)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhawna-bhandari-831854271/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhawnaa.05)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ln41XQqYSF/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/bhawnabhanxuzg/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bhawnabhandari2004@gmail.com)  
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhawnabhandari2004@gmail.com)
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
@@ -23,7 +22,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Overview  
-
 | 🔥 Contributions & Streak | 📈 Detailed Stats | 💻 Languages |
 |---------------------------|-------------------|--------------|
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhawnaa05&theme=radical) | ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhawnaa05&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhawnaa05&layout=compact&langs_count=10&theme=radical) |
@@ -31,7 +29,6 @@
 ---
 
 ## 🔥 GitHub Activity  
-
 | Profile Summary | Commits by Language |
 |-----------------|---------------------|
 | ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhawnaa05&theme=radical) | ![Commits by Lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhawnaa05&theme=radical) |
