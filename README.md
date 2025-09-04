@@ -35,8 +35,9 @@
 
 ## 📊 GitHub Overview  
 | 🔥 Contributions & Streak | 📈 Detailed Stats | 💻 Languages |
-|---------------------------|-------------------|--------------|
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=bhawnaa05&theme=radical) | ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhawnaa05&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhawnaa05&layout=compact&langs_count=10&theme=radical) |
+|---------------------------|--------------------|---------------|
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=bhawnaa05&theme=radical) | ![Stats](https://github-readme-stats.vercel.app/api?username=bhawnaa05&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhawnaa05&layout=compact&langs_count=10&theme=radical) |
+
 
 ---
 
